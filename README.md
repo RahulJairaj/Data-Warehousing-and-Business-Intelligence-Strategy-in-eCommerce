@@ -1,1 +1,3 @@
 # Data Warehousing and Business Intelligence Strategy in eCommerce
+
+FudgeMart is an enterprise which is a wholesale and retail ecommerce system which has a subsidiary company FudgeFlix which deals with movie DVD rentals for subscribed users. The staff at FudgeMart & FudgeFlix require data to answer various business questions to make better decisions, track and monitor progress daily. The current data is stored in a OLTP system which are relational databases. The data is stored in multiple tables in the 2 different databases which isn’t well integrated. This data needs to unify to get insights out of it and answer important business questions.
